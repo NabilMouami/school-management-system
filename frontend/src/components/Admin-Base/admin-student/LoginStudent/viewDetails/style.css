@@ -1,0 +1,8 @@
+.informations{
+  margin: 200px;
+}
+.flex-std{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
