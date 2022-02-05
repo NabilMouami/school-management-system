@@ -1,0 +1,38 @@
+.contact{
+    margin: 400px 600px;
+    width: 50%;
+}
+
+.contact  form{
+    flex: 1 1 42rem;
+    padding: 2rem;
+    border: .1rem solid rgba(0,0,0,.1);
+    border-radius: .5rem;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    text-align: center;
+}
+
+.btnn {
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: .5rem;
+    background: #ffee80;
+    color: #130f40;
+    font-weight: 500;
+    font-size: 1.7rem;
+    cursor: pointer;
+    padding: 1rem 3rem;
+}
+.btnn:hover {
+    background:  #f9d806;
+}
+.contact  form textarea{
+    height: 15rem;
+    width: 500px;
+    resize: none;
+}
+
+.contact  form h3{
+    font-size: 3rem;
+    color: #130f40;
+}

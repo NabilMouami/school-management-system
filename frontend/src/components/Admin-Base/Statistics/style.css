@@ -1,0 +1,8 @@
+.statistic {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    line-height: 40px;
+    width: 700px;
+}

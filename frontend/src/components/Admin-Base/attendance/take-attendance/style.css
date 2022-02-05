@@ -1,0 +1,33 @@
+.attendance{
+    margin: 400px;
+    width: 1200px;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: .1rem solid rgba(0,0,0,.1);
+    border-radius: .5rem;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+    text-align: center;
+}
+.attendance h4{
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 1px solid #000;
+    margin-bottom: 5px;
+}
+.att-flex{
+  display: flex;
+  justify-content: space-around;
+}
+.att-details {
+   display: flex;
+   justify-content: space-between;
+}
+.att-radio {
+  display: flex;
+}
+.formlabel{
+  margin-top: 8px;
+  margin-right: 5px;
+}
